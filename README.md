@@ -5,5 +5,7 @@
 http://losangeles2019.satrdays.org
 </pre>
 
-Scripts of our talk "Multiple Response Regression models" can be found in  https://cesar-acosta.github.io/2019satRdays/
-
+Scripts of our talk "Multiple Response Regression models" can be found in  
+<pre>
+https://cesar-acosta.github.io/2019satRdays/
+</pre>
